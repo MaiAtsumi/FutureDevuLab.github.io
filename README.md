@@ -8,6 +8,10 @@ Based on [ryanfitzgerald's "Dev Portfolio"](https://github.com/RyanFitzgerald/de
 
 ## Changelog
 
+### 0.1.1 - Multilanguage support
+
+* Implementation of the [jquery multilanguage plugin by Dakk](https://github.com/dakk/jquery-multilang)
+
 ### 0.1.0 - Devu staruto!
 
 * Initialization of the site and repo
