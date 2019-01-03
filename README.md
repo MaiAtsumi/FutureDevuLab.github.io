@@ -22,6 +22,11 @@ Based on [ryanfitzgerald's "Dev Portfolio"](https://github.com/RyanFitzgerald/de
 
 * Initialization of the site and repo
 
+## To Fix
+
+* Some icons are not showing
+* Some parts need to fill up (from the template)
+
 ## License
 
 Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
