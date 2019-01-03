@@ -8,6 +8,10 @@ Based on [ryanfitzgerald's "Dev Portfolio"](https://github.com/RyanFitzgerald/de
 
 ## Changelog
 
+### 0.4.0 - Layout initialization complete
+
+* A lot of things........ YAY!
+
 ### 0.3.0 - Projects carousel initialization
 
 * Carousel! Yay!
