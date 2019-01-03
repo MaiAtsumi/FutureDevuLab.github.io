@@ -8,6 +8,12 @@ Based on [ryanfitzgerald's "Dev Portfolio"](https://github.com/RyanFitzgerald/de
 
 ## Changelog
 
+### 0.3.0 - Projects carousel initialization
+
+* Carousel! Yay!
+* Fixed some (useless) social icons
+* "donations gif-girl" is now REALLY in .gif extension (was .webp before)
+
 ### 0.2.0 - Tag cloud and other things
 
 * Tag cloud! See whaaaat we know! (a little bit, at least, eheh)
