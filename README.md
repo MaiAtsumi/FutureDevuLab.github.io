@@ -8,6 +8,12 @@ Based on [ryanfitzgerald's "Dev Portfolio"](https://github.com/RyanFitzgerald/de
 
 ## Changelog
 
+### 0.2.0 - Tag cloud and other things
+
+* Tag cloud! See whaaaat we know! (a little bit, at least, eheh)
+* Added a cute "donations gif-girl" awwwwwwwww *^*
+* Added some tkeys for multilanguage support!
+
 ### 0.1.1 - Multilanguage support
 
 * Implementation of the [jquery multilanguage plugin by Dakk](https://github.com/dakk/jquery-multilang)
