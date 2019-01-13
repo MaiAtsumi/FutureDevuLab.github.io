@@ -8,6 +8,10 @@ Based on [ryanfitzgerald's "Dev Portfolio"](https://github.com/RyanFitzgerald/de
 
 ## Changelog
 
+### 0.4.1 - Autoudating avatars
+
+* Now the avatars are always up to date. All taken from the proper github profiles.
+
 ### 0.4.0 - Layout initialization complete
 
 * A lot of things........ YAY!
