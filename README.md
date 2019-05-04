@@ -8,6 +8,10 @@ Based on [ryanfitzgerald's "Dev Portfolio"](https://github.com/RyanFitzgerald/de
 
 ## Changelog
 
+### 1.2.5 - Fixed a security breach
+
+* Waiting for an official fix from Node.Js libs 
+
 ### 0.4.1 - Auto-updating avatars
 
 * Now the avatars are always up to date. All taken from the proper github profiles.
