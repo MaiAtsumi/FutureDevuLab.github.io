@@ -1,20 +1,21 @@
 {
-  "name": "devportfolio-template",
-  "version": "1.1.3",
-  "description": "",
+  "name": "futuredevulab.github.io",
+  "version": "1.2.5",
+  "description": "Site of the magnificent Future Devu Lab!",
   "main": "js/scripts.js",
   "scripts": {
     "watch": "gulp watch"
   },
   "keywords": [
-    "portfolio",
     "personal",
     "website",
     "tech",
     "coding",
-    "dev"
+    "dev",
+    "projects",
+    "programming"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "MaiAtsumi",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^4.0.0",
@@ -24,5 +25,17 @@
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.1",
     "gulp-wait": "0.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaiAtsumi/FutureDevuLab.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaiAtsumi/FutureDevuLab.github.io/issues"
+  },
+  "homepage": "https://github.com/MaiAtsumi/FutureDevuLab.github.io#readme",
+  "dependencies": {
+    "node-gyp": "^4.0.0",
+    "tar": "^4.4.8"
   }
 }
